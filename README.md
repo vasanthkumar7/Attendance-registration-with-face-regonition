@@ -1,4 +1,3 @@
-# Attendance-registration-with-face-regonition
  
 # Introduction
 Attendance registration used schools and colleges to check whether everyone is present and it is done manually . In this blog we gonna see about how to create a attendance registration application with face recognition  using python
