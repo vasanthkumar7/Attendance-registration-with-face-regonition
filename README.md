@@ -219,9 +219,6 @@ root.mainloop()
 ![Screenshot (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650376021405/1UISUMGOQ.png)
 
 
-![Screenshot (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650376038327/WYdyE0EDj.png)
-
-
 ![Screenshot (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650376052516/pLsMvOo1A.png)
 
 
